@@ -1,0 +1,18 @@
+Extract the folder maccessruletemp on your moodle folder /mod/quiz/accessrule
+
+Rename the folder "maccessruletemp" with your pluginname
+
+Replace all the function with "maccessruletemp" to your pluginname
+
+Rename file under backup/moodle2 the file with a text "maccessruletemp" to with your plugin name 
+ex.  backup_quizaccess_maccessruletemp_subplugin.class.php to backup_quizaccess_thisismynewpluginname_subplugin.class.php
+
+Rename file on lang/en quizaccess_maccessruletemp.php to your plugin name
+ex. quizaccess_maccessruletemp.php to quizaccess_thisismynewpluginname.php
+
+****
+****
+******
+
+HAPPY CODING 
+Cheers -Lei
