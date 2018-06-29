@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Implementaton of the quizaccess_template plugin.
+ * Implementaton of the quizaccess_maccessruletemp plugin.
  *
  * @package    quizaccess
  * @subpackage maccessruletemp
